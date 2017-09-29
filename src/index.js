@@ -15,6 +15,12 @@ import marvelApp from './reducers';
 import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap/dist/css/bootstrap-theme.css';
 
+
+
+
+
+
+
 let store = createStore(marvelApp, applyMiddleware(thunk))
 
 
@@ -24,3 +30,6 @@ ReactDOM.render(
 </Provider>
 , document.getElementById('root'));
 registerServiceWorker();
+
+
+
