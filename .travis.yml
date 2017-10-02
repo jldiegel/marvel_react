@@ -1,0 +1,8 @@
+language: node_js
+node_js:
+- '7'
+deploy:
+  provider: heroku
+  api_key:
+    secure: 0be80931-01a7-4d4e-bba0-5fd4d5f1d173
+    app: peaceful-beach-71190
