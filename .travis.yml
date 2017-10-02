@@ -3,6 +3,6 @@ node_js:
 - '7'
 deploy:
   provider: heroku
-  api_key:
-    secure: jjjVFAOoV0k37beJ0VZ7P6en5lkHYXmmoiCQoMqL/zMq4t23KZi0igVZqYRQMEQxGBtY8sNcKVmRMUyLjqqnVbD2BLMVch9MYeEWYALyWlER1ythA/j78TPav6+uobwwzs4RBbPEv+LdLp2HxB6crcU6cXTUMjkO2Ty1VJ83UimYAyLwyV5HRScvRT5Wk1D+B/GDj0lXhO5vsYBKc+S7hPfpBteCJM7cUqy2GgUSYZPynae8eEGtyML9WnnShvAaFcMfLfGEkLceuSti8bERSDh62Vn9unB0PdBrYwxOg/l8T/avyCqBEmhDRHQ5IYjAt+c5cnAJMpQ9z7GphKL2tHp5GTTnw+RFOtqUPgABgFciAhYCerTGnokP8jncfqMmlIIQqrOOLHhThA1h+2lGomWMrmB2o9935/zgjGqxXlr52bMEk8msa8BIySsUfR1+OjSFi3pFNrF1htmkIQE610LxSjw9Q4ot0WB96BZxbu6iWESqOawXpilZVq54qLGweXtg6r+7jzfdrFIXc85/RRApXnvdDHOAY+3lTkoLAyjUYMCk7UIbH6wfhno3YLjYvf2D4dhUDZ3YyJMIyON0eKVskm/BlorNz+nEf3BfCIgccX+TYAQJ3i3hEOsDkKXEsWw6tmb+jOZhisR0072gxQRRlbE/lWVixXvApsxabBE=
   app: peaceful-beach-71190
+  api_key:
+    secure: 35e79f42-6d37-4aae-9931-5aa8a6f03e94
